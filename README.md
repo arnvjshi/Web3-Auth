@@ -1,4 +1,4 @@
-# Web3-Auth
+# Web3-Auth.
 
 **Web3-Auth** is a decentralized authentication system built with **Solidity, Next.js, and SHA-512**. It eliminates third-party wallets, securely generating and encrypting private keys for users to enable blockchain interactions without relying on external e-wallets.
 
